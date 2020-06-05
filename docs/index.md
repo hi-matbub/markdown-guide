@@ -23,7 +23,7 @@ I've found higher learning to be most effective by contributing to open source p
 
 ### Backstage.io
 
-![gif](../static/img/backstage.gif)
+![gif](../img/backstage.gif)
 
 > Meet the first open-source developer portal that puts the developer experience first. With a unified frontend for all your infrastructure tooling, Backstage gets developers up and running faster, which makes them happier. And a happier developer is a more productive developer.
 
@@ -39,7 +39,7 @@ I've found higher learning to be most effective by contributing to open source p
 
 ### freeCodeCamp.org
 
-![gif](../static/img/free-code-camp.gif)
+![gif](../img/free-code-camp.gif)
 
 > We’re a nonprofit community that helps you learn to code by building projects.
 
