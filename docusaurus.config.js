@@ -1,14 +1,15 @@
 module.exports = {
   title: "Mat Bub",
   tagline: "Full Stack Web Developer",
-  url: "https://your-docusaurus-test-site.com",
+  url: "https://matbub.co",
   baseUrl: "",
   favicon: "img/favicon.ico",
   organizationName: "hi-matbub", // Usually your GitHub org/user name.
   projectName: "md", // Usually your repo name.
   themeConfig: {
+    image: "img/mat.png",
     navbar: {
-      title: "Mat Bub",
+      title: "Mat Bub | Full Stack Web Developer",
     },
     footer: {
       style: "dark",
