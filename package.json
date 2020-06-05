@@ -1,6 +1,6 @@
 {
-  "name": "temp",
-  "version": "0.0.0",
+  "name": "matbub",
+  "version": "0.1.0",
   "private": true,
   "scripts": {
     "start": "docusaurus start",
