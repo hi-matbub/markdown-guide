@@ -19,8 +19,6 @@ I am passionate about modern tech and making a positive impact within the commun
 
 Well versed in Full Stack Development, as well as managing tasks such as intergrations and migrations, API consumption and creation, unit testing, SEO and Media Queries, and so much more.
 
----
-
 ### Connect
 
 - [LinkedIn](https://www.linkedin.com/in/matbub/)
@@ -108,6 +106,8 @@ I've found higher learning to be most effective by contributing to open source p
 - JavaScript
 - [GitHub](https://github.com/hi-matbub/fake-things)
 - [npm](https://www.npmjs.com/package/fake-things)
+
+---
 
 ### This
 
