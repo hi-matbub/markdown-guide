@@ -14,9 +14,14 @@ title: Portfolio
 
 ## About Me
 
-I am passionate about modern tech and making a positive impact within the community.
+Well versed in Full Stack Development. I am passionate about modern tech and making a positive impact within the community.
 
-Well versed in Full Stack Development.
+A Minimalist by nature, I spent my childhood riding bike's in the local feilds and fishing with my dad.
+
+I spent my early working career as a leader in the hospitality industry. I am thankful that I have been able to do what I love for _"work"_ these past 4 years. I look forward to many, many more.
+
+- Mat
+  ![img]('../img/mat-sig.png)
 
 ### Connect
 
