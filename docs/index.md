@@ -20,8 +20,9 @@ A Minimalist by nature, I spent my childhood riding bike's in the local feilds a
 
 I spent my early working career as a leader in the hospitality industry. I am thankful that I have been able to do what I love for _"work"_ these past 4 years. I look forward to many, many more.
 
-- Mat
-  ![img]('../img/mat-sig.png)
+\- Mat
+
+![img](../img/mat.png)
 
 ### Connect
 
