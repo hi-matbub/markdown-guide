@@ -3,7 +3,7 @@ id: index
 title: Portfolio
 ---
 
----
+## From Los Angeles, CA.
 
 # Matthew Bub
 
@@ -17,7 +17,7 @@ title: Portfolio
 
 I am passionate about modern tech and making a positive impact within the community.
 
-Well versed in Full Stack Development, as well as managing tasks such as intergrations and migrations, API consumption and creation, unit testing, SEO and Media Queries, and so much more.
+Well versed in Full Stack Development and naturally good at Front End.
 
 ### Connect
 
@@ -43,8 +43,6 @@ I've found higher learning to be most effective by contributing to open source p
 #### Technology used
 
 - [Docusaurus](https://v2.docusaurus.io/)
-  - JSX
-  - Markdown
 - SEO
 - [GitHub](https://github.com/spotify/backstage-microsite)
 
@@ -111,7 +109,9 @@ I've found higher learning to be most effective by contributing to open source p
 
 ### This
 
-> A portfolio to showcase of my favorite experiences.
+![gif](../img/port.gif)
+
+> A portfolio to showcase some of my favorite experiences.
 
 #### Technology used
 
