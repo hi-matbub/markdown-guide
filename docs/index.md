@@ -8,7 +8,6 @@ title: Portfolio
 # Matthew Bub
 
 - Full Stack Web Developer
-- Los Angeles, CA
 - hi@matbub.co
 
 `#blacklivesmatter`
@@ -17,7 +16,7 @@ title: Portfolio
 
 I am passionate about modern tech and making a positive impact within the community.
 
-Well versed in Full Stack Development and naturally good at Front End.
+Well versed in Full Stack Development.
 
 ### Connect
 
