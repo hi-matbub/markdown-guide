@@ -32,7 +32,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Mat Bub. Built with Docusaurus.`,
+      copyright: `${new Date().getFullYear()} Mat Bub.`,
     },
   },
   presets: [

@@ -45,6 +45,8 @@ I've found higher learning to be most effective by contributing to open source p
 
 > Meet the first open-source developer portal that puts the developer experience first. With a unified frontend for all your infrastructure tooling, Backstage gets developers up and running faster, which makes them happier. And a happier developer is a more productive developer.
 
+Updated Social Sharing Images and SEO data while complying with Docusaurus' migration docs.
+
 #### Technology used
 
 - [Docusaurus](https://v2.docusaurus.io/)
@@ -59,6 +61,8 @@ I've found higher learning to be most effective by contributing to open source p
 
 > We’re a nonprofit community that helps you learn to code by building projects.
 
+Contributed to the User Profile page and modified tests in Jest to reflect updates.
+
 #### Technology used
 
 - React
@@ -72,10 +76,11 @@ I've found higher learning to be most effective by contributing to open source p
 
 > PASETO allows you to create secure and stateless tokens that can be safely shared over the web. This app is meant for debugging PASETO tokens.
 
+Rebuilt the applications UI for better readability and for a responsive layout.
+
 #### Technology used
 
 - Next.js
-- PASETO
 - CSS3
 - [GitHub](https://github.com/mehdibo/paseto-debugger)
 
