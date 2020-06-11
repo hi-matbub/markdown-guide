@@ -16,14 +16,6 @@ title: Portfolio
 
 Well versed in Full Stack Development. I am passionate about modern tech and making a positive impact within the community.
 
-A Minimalist by nature, I spent my childhood riding bike's in the local feilds and fishing with my dad.
-
-I spent my early working career as a leader in the hospitality industry. I am thankful that I have been able to do what I love for _"work"_ these past 4 years. I look forward to many, many more.
-
-\- Mat
-
-![img](../img/mat.png)
-
 ### Connect
 
 - [LinkedIn](https://www.linkedin.com/in/matbub/)
@@ -39,92 +31,76 @@ I've found higher learning to be most effective by contributing to open source p
 
 ---
 
+### Jest
+
+Version control. [@facebook/jest](https://github.com/facebook/jest)
+
+`Node`, `JSON`, `Docker`
+
 ### Backstage.io
 
-![gif](../img/backstage.gif)
+Updated Social Sharing Images and SEO data while complying with Docusaurus' migration docs. [@spotify/backstage-microsite](https://github.com/spotify/backstage-microsite)
 
-> Meet the first open-source developer portal that puts the developer experience first. With a unified frontend for all your infrastructure tooling, Backstage gets developers up and running faster, which makes them happier. And a happier developer is a more productive developer.
-
-Updated Social Sharing Images and SEO data while complying with Docusaurus' migration docs.
-
-#### Technology used
-
-- [Docusaurus](https://v2.docusaurus.io/)
-- SEO
-- [GitHub](https://github.com/spotify/backstage-microsite)
-
----
+`Docusaurus`, `SEO`, `GitHub`
 
 ### freeCodeCamp.org
 
-![gif](../img/free-code-camp.gif)
+Contributed to the User Profile page and modified tests in Jest to reflect updates. [@freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
 
-> We’re a nonprofit community that helps you learn to code by building projects.
-
-Contributed to the User Profile page and modified tests in Jest to reflect updates.
-
-#### Technology used
-
-- React
-- Jest
-- ESLint
-- [GitHub](https://github.com/freeCodeCamp/freeCodeCamp)
-
----
+`React`, `Jest`, `Docker`, `GitHub`
 
 ### PASETO Debugger
 
-> PASETO allows you to create secure and stateless tokens that can be safely shared over the web. This app is meant for debugging PASETO tokens.
+Rebuilt the applications UI for better readability and for a responsive layout. [@mehdibo/paseto-debugger](https://github.com/mehdibo/paseto-debugger)
 
-Rebuilt the applications UI for better readability and for a responsive layout.
+`Next.js`, `CSS3`, `GitHub`
 
-#### Technology used
-
-- Next.js
-- CSS3
-- [GitHub](https://github.com/mehdibo/paseto-debugger)
+---
 
 ## Projects
+
+Demonstrations of particular skills
 
 ---
 
 ### jsonfaker.com
 
-> Prebuilt objects hosted over a REST API. In depth examples allow designers and developers to get up and running quickly.
+Prebuilt objects hosted over a REST API. In depth examples allow designers and developers to get up and running quickly. [@json-faker/jsonfaker](https://github.com/json-faker/jsonfaker)
 
-#### Technology used
-
-- Node.js
-  - Express.js
-- REST API
-- HTML
-- CSS
-- [Firebase Hosting](https://jsonfaker.com)
-- [GitHub](https://github.com/json-faker/jsonfaker)
-
----
+`Node`, `Express`, `REST API`, `HTML`, `CSS`, `Firebase Hosting`, `GitHub`
 
 ### fake-things
 
-> An npm package for fake data generation.
+An npm package for fake data generation. [@hi-matbub/fake-things](https://github.com/hi-matbub/fake-things)
 
-#### Technology used
+`Node.js`, `JavaScript`, `GitHub`, `npm`
 
-- Node.js
-- JavaScript
-- [GitHub](https://github.com/hi-matbub/fake-things)
-- [npm](https://www.npmjs.com/package/fake-things)
+### depot-eCom
 
----
+eCommerce CRUD demo. [@hi-matbub/depot-eCom](https://github.com/hi-matbub/depot-eCom)
+
+`React`, `React Router`, `CSS`, `REST API`, `Node`, `Express`, `postgreSQL`, `mocha`, `chai`, `jest`
+
+### survey-maker
+
+A CRUD demo. [@hi-matbub/survey-makey](https://github.com/hi-matbub/survey-makey)
+
+`React`, `React Router`, `CSS`, `REST API`, `Node`, `Express`, `postgreSQL`, `mocha`, `chai`, `jest`
 
 ### This
 
-![gif](../img/port.gif)
+A portfolio to showcase some of my favorite experiences.
 
-> A portfolio to showcase some of my favorite experiences.
+`Docusaurus`, `GitHub`, `Netlify`
 
-#### Technology used
+---
 
-- Docusaurus
-- GitHub
-- Netlify
+## More about me
+
+A Minimalist by nature, I spent my childhood riding bike's in the local fields and fishing with my dad.
+
+I spent my early working career as a leader in the hospitality industry. I am thankful that I have been able to do what I love for _"work"_ these past 4 years. I look forward to many, many more.
+
+\- Mat
+
+![img](../img/mat.png)
