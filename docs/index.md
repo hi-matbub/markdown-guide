@@ -61,13 +61,19 @@ Rebuilt the applications UI for better readability and for a responsive layout. 
 
 **2U**.
 
+`Firebase`, `REST APIs`, `Node`, `Express`, `MongoDB`, `React`, `HTML`, `CSS`, `JavaScript`, `jQuery`
+
 ### Web Development Intern
 
 **Bloc**.
 
+`React`, `React Router`, `CSS`, `REST API`, `Node`, `Express`, `postgreSQL`, `mocha`, `chai`, `jest`
+
 ### Web Developer
 
 **Freelance**.
+
+`HTML`, `CSS`, `JavaScript`, `jQuery`, `Wordpress`, `Shopify`, `ClickFunnels`
 
 ---
 
