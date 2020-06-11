@@ -7,8 +7,7 @@ title: Portfolio
 
 # Matthew Bub
 
-- Full Stack Web Developer
-- hi@matbub.co
+hi@matbub.co
 
 `#blacklivesmatter`
 
