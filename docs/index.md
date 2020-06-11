@@ -29,11 +29,9 @@ Well versed in Full Stack Development. I am passionate about modern tech and mak
 
 I've found higher learning to be most effective by contributing to open source projects, below is a list of projects I'm proud to be apart of.
 
----
-
 ### Jest
 
-Version control. [@facebook/jest](https://github.com/facebook/jest)
+Updating required engines. [@facebook/jest](https://github.com/facebook/jest)
 
 `Node`, `JSON`, `ESLint`
 
@@ -57,11 +55,25 @@ Rebuilt the applications UI for better readability and for a responsive layout. 
 
 ---
 
+## Work
+
+### CS Mentor at UCLA
+
+**2U**.
+
+### Web Development Intern
+
+**Bloc**.
+
+### Web Developer
+
+**Freelance**.
+
+---
+
 ## Projects
 
 Demonstrations of particular skills
-
----
 
 ### jsonfaker.com
 
