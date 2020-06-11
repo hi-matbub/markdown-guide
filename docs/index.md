@@ -35,7 +35,7 @@ I've found higher learning to be most effective by contributing to open source p
 
 Version control. [@facebook/jest](https://github.com/facebook/jest)
 
-`Node`, `JSON`, `Docker`
+`Node`, `JSON`, `ESLint`
 
 ### Backstage.io
 
@@ -47,7 +47,7 @@ Updated Social Sharing Images and SEO data while complying with Docusaurus' migr
 
 Contributed to the User Profile page and modified tests in Jest to reflect updates. [@freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
 
-`React`, `Jest`, `Docker`, `GitHub`
+`React`, `Jest`, `ESLint`, `GitHub`
 
 ### PASETO Debugger
 
