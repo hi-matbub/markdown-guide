@@ -12,7 +12,7 @@ function Home() {
   const {siteConfig = {}} = context;
   return (
     <Layout
-      title={`Matthew Bub's Web Developer Showcase`}
+      title={`Home`}
       description="Professional Software Engineering specializing in JavaScript, AWS and GraphQL">
       <main className={clsx('hero', styles.heroBanner)}>
         <div className="container">
@@ -21,7 +21,7 @@ function Home() {
             <div className={styles.buttons}>
               <p>{'Well versed in Full Stack Development. I am passionate about modern tech and making a positive impact within the community.'}
 
-              <br/><br/> {'A Minimalist by nature, I spent my early working career freelanceing in various ways directly related to managing data and web development. I am seeking stability and to grow within a company. I am thankful that I have been able to do what I love for "work" these past 13 years. I look forward to many, many more.'}
+              <br/><br/> {'A Minimalist by nature, I spent my early working career managing data and intergrating various web services in the Real Estate Industry. I am seeking stability and to grow within a company. I am thankful that I have been able to do what I love for "work" since 2011 and look forward to growing within the industry.' }
               <br/><br/>{' - Mat'}</p>
             </div>
             <div className={styles.rows}>

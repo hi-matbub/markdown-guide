@@ -51,7 +51,7 @@ const openSoure= {
 
 const freelance = {
     title: 'Full Stack Developer',
-    dates: '2007 - 2019',
+    dates: '2011 - 2019',
     works: [
       'SEO expert',
       'Developed funnels designed for client acquisition using HTML, CSS, JavaScript and PHP.',
