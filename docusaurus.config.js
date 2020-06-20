@@ -4,7 +4,7 @@ module.exports = {
   url: 'https://matbub.co',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
-  projectName: 'showcase', // Usually your repo name.
+  projectName: 'portfolio', // Usually your repo name.
   themeConfig: {
     disableDarkMode: true,
     navbar: {
@@ -13,10 +13,10 @@ module.exports = {
         alt: 'logo',
         src: 'img/mat.png',
       },
-      links: [  
+      links: [
         {to: 'works', label: 'Works', position: 'left'},
         {
-          href: 'https://github.com/hi/docusaurus',
+          href: 'https://github.com/hi-matbub',
           label: 'GitHub',
           position: 'right',
         },
