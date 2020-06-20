@@ -19,10 +19,10 @@ function Home() {
           <div>
 
             <div className={styles.buttons}>
-              <p>Well versed in Full Stack Development. I am passionate about modern tech and making a positive impact within the community.
-              <br/><br/> A Minimalist by nature, I spent my childhood riding bike's in the local fields and fishing with my dad.
-              <br/><br/> I spent my early working career freelanceing in Web Development. I am thankful that I have been able to do what I love for "work" these past 13 years. I look forward to many, many more.
-              <br/><br/> - Mat</p>
+              <p>{'Well versed in Full Stack Development. I am passionate about modern tech and making a positive impact within the community.'}
+
+              <br/><br/> {'A Minimalist by nature, I spent my early working career freelanceing in various ways directly related to managing data and web development. I am seeking stability and to grow within a company. I am thankful that I have been able to do what I love for "work" these past 13 years. I look forward to many, many more.'}
+              <br/><br/>{' - Mat'}</p>
             </div>
             <div className={styles.rows}>
               <Link
