@@ -1,6 +1,6 @@
 {
-  "name": "matbub",
-  "version": "0.1.0",
+  "name": "showcase",
+  "version": "0.0.0",
   "private": true,
   "scripts": {
     "start": "docusaurus start",
@@ -9,10 +9,13 @@
     "deploy": "docusaurus deploy"
   },
   "dependencies": {
-    "@docusaurus/core": "^2.0.0-alpha.56",
-    "@docusaurus/preset-classic": "^2.0.0-alpha.56",
-    "classnames": "^2.2.6",
+    "@docusaurus/core": "^2.0.0-alpha.58",
+    "@docusaurus/preset-classic": "^2.0.0-alpha.58",
+    "aos": "^3.0.0-beta.6",
+    "bootstrap": "^4.5.0",
+    "clsx": "^1.1.1",
     "react": "^16.8.4",
+    "react-bootstrap": "^1.0.1",
     "react-dom": "^16.8.4"
   },
   "browserslist": {
