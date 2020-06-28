@@ -1,200 +1,67 @@
 ---
 id: doc1
-title: Style Guide
-sidebar_label: Style Guide
+title: Portfolio
 ---
 
-You can write content using [GitHub-flavored Markdown syntax](https://github.github.com/gfm/).
+## Works
+### [Asynchronous Timers](/zennn) 
 
-## Markdown Syntax
+<details>
+<summary><b>View More</b></summary>
 
-To serve as an example page when styling markdown based Docusaurus sites.
+> Easy to manage, simple asynchronous timers rendered in the terminal for presentation & host management.
 
-## Headers
+Built in Node.js, and hosted to GitHub and npm.
 
-# H1 - Create the best documentation
+</details>
 
-## H2 - Create the best documentation
+### [Data Generator API + npm](/jsonfaker) 
 
-### H3 - Create the best documentation
+<details>
+<summary><b>View More</b></summary>
 
-#### H4 - Create the best documentation
+> A fake data generator designed for rapid prototyping.
 
-##### H5 - Create the best documentation
+Built in Node.js, Express.js, HTML and Bootstrap. Hosted to Firebase, GitHub and npm
 
-###### H6 - Create the best documentation
+</details>
 
----
+### [eCom Demo](/ecom) 
 
-## Emphasis
+<details>
+<summary><b>View More</b></summary>
 
-Emphasis, aka italics, with *asterisks* or _underscores_.
+> A demonstration of an eCommerce platform.
 
-Strong emphasis, aka bold, with **asterisks** or __underscores__.
+Client built with React.js, React Router and CSS. Deployed to Zeit.
 
-Combined emphasis with **asterisks and _underscores_**.
+Server built with Node.js, Express.js, PostgreSQL. Deployed to Heroku
 
-Strikethrough uses two tildes. ~~Scratch this.~~
+Tests ran with Mocha, Chai, Jest and Supertest
+</details>
 
----
 
-## Lists
 
-1. First ordered list item
-1. Another item
-   - Unordered sub-list.
-1. Actual numbers don't matter, just that it's a number
-   1. Ordered sub-list
-1. And another item.
+### [Dog API Demo](/dog-api) 
 
-* Unordered list can use asterisks
 
-- Or minuses
+<details>
+<summary><b>View More</b></summary>
 
-+ Or pluses
+> Demonstrates my love for arrays and objects
 
----
+Built in HTML, CSS and JavaScript. Hosted to GitHub.
 
-## Links
+</details>
 
-[I'm an inline-style link](https://www.google.com/)
 
-[I'm an inline-style link with title](https://www.google.com/ "Google's Homepage")
+## [Blog](/blog)
+[How To Export Modules in Node.js](/blog/exporting-modules-in-node)
 
-[I'm a reference-style link][arbitrary case-insensitive reference text]
+[How To Build A Calculator using JavaScript](/blog/how-to-build-a-calculator-using-javascript)
 
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
+[3 of the Cleanest Ways to Get a Random a/b Value in JavaScript](/blog/3-slick-ways-to-get-a-random-value-in-javascript)
 
-[You can use numbers for reference-style link definitions][1]
 
-Or leave it empty and use the [link text itself].
 
-URLs and URLs in angle brackets will automatically get turned into links. http://www.example.com/ or <http://www.example.com/> and sometimes example.com (but not on GitHub, for example).
 
-Some text to show that the reference links can follow later.
-
-[arbitrary case-insensitive reference text]: https://www.mozilla.org/
-[1]: http://slashdot.org/
-[link text itself]: http://www.reddit.com/
-
----
-
-## Images
-
-Here's our logo (hover to see the title text):
-
-Inline-style: ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png 'Logo Title Text 1')
-
-Reference-style: ![alt text][logo]
-
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png 'Logo Title Text 2'
-
----
-
-## Code
-
-```javascript
-var s = 'JavaScript syntax highlighting';
-alert(s);
-```
-
-```python
-s = "Python syntax highlighting"
-print(s)
-```
-
-```
-No language indicated, so no syntax highlighting.
-But let's throw in a <b>tag</b>.
-```
-
-```js {2}
-function highlightMe() {
-  console.log('This line can be highlighted!');
-}
-```
-
----
-
-## Tables
-
-Colons can be used to align columns.
-
-| Tables        |      Are      |   Cool |
-| ------------- | :-----------: | -----: |
-| col 3 is      | right-aligned | \$1600 |
-| col 2 is      |   centered    |   \$12 |
-| zebra stripes |   are neat    |    \$1 |
-
-There must be at least 3 dashes separating each header cell. The outer pipes (|) are optional, and you don't need to make the raw Markdown line up prettily. You can also use inline Markdown.
-
-| Markdown | Less      | Pretty     |
-| -------- | --------- | ---------- |
-| _Still_  | `renders` | **nicely** |
-| 1        | 2         | 3          |
-
----
-
-## Blockquotes
-
-> Blockquotes are very handy in email to emulate reply text. This line is part of the same quote.
-
-Quote break.
-
-> This is a very long line that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can _put_ **Markdown** into a blockquote.
-
----
-
-## Inline HTML
-
-<dl>
-  <dt>Definition list</dt>
-  <dd>Is something people use sometimes.</dd>
-
-  <dt>Markdown in HTML</dt>
-  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
-</dl>
-
----
-
-## Line Breaks
-
-Here's a line for us to start with.
-
-This line is separated from the one above by two newlines, so it will be a _separate paragraph_.
-
-This line is also a separate paragraph, but... This line is only separated by a single newline, so it's a separate line in the _same paragraph_.
-
----
-
-## Admonitions
-
-:::note
-
-This is a note
-
-:::
-
-:::tip
-
-This is a tip
-
-:::
-
-:::important
-
-This is important
-
-:::
-
-:::caution
-
-This is a caution
-
-:::
-
-:::warning
-
-This is a warning
-
-:::

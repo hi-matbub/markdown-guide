@@ -5,7 +5,8 @@ import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 import styles from './styles.module.css';
-
+import details from './details.mdx'
+import Works from './works'
 
 function Home() {
   const context = useDocusaurusContext();
@@ -14,14 +15,15 @@ function Home() {
     <Layout
       title={`Home`}
       description="Professional Software Engineering specializing in JavaScript, AWS and GraphQL">
-      <main className={clsx('hero', styles.heroBanner)}>
+        <Works/>
+
+        {/* {details } */}
+      {/* <main className={clsx('hero', styles.heroBanner)}> 
         <div className="container">
           <div>
 
             <div className={styles.buttons}>
-              <p>{'Well versed in Full Stack Development. I am passionate about modern tech and making a positive impact within the community.'}
-
-              <br/><br/> {'A Minimalist by nature, I spent my early working career managing data and intergrating various web services in the Real Estate Industry. I am seeking stability and to grow within a company. I am thankful that I have been able to do what I love for "work" since 2011 and look forward to growing within the industry.' }
+              <p>{'Well versed in Full Stack Development. I am passionate about modern tech and making a positive impact within the community.'}        
               <br/><br/>{' - Mat'}</p>
             </div>
             <div className={styles.rows}>
@@ -38,6 +40,7 @@ function Home() {
           </div>
         </div>
       </main>
+      */}
     </Layout>
   );
 }

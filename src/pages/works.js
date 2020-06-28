@@ -19,11 +19,13 @@ const colors = {
   u2: {background: '#30e4f7'},
   bloc: {background: '#3e29ef', color: '#EEE'},
   shipmonk: {background: '#46a147'},
-  freelance: {background: '#FFC72C'}
+  freelance: {background: '#FFC72C'},
+
 }
 
 const openSoure= {
   title: 'Open Source',
+  color: colors.freelance,
   controbutions: [
     {
       title: 'Docusaurs',
@@ -52,30 +54,30 @@ const openSoure= {
 const freelance = {
     title: 'Full Stack Developer',
     dates: '2011 - 2019',
+    color: colors.freelance,
     works: [
-      'SEO expert',
+      'Implemented solutions to assist with repetitious tasks associated with Microsoft Excel.',      
       'Developed funnels designed for client acquisition using HTML, CSS, JavaScript and PHP.',
-      'Intergrates and automates databases, email and notification services using APIs.',
+      'Integrates and automates databases, email and notification services using APIs.',
       'Migrates databases into various CMS.',
-      'Implemented JavaScript to assist with repitious tasks associated with Micrsoft Excel.',
+      'SEO expert',
     ]
   }
 
 const projectData = [
   {
-    title: 'Web Development Mentor at UCLA',
-    desc: 'Displays mastery of knowledge and presents advanced concepts to Students. Works with Firebase, REST APIs, Node, Express, MongoDB, React, HTML, CSS, JavaScript and jQuery.',
+    title: 'Asynchronous Timers ',
+    desc: 'Easy to manage, simple asynchronous timers rendered in the terminal for presentation & host management. Built using Node, Mocha, ESLint, Prettier, Travis CI, and GitHub Actions',
     dataAOS: "fade-left",
     color: colors.u2,
-    company: 'U2',
-    dates: 'Present',
-    link: '',
-    linkTitle: '',
+    company: 'npm package',
+    link: '/zennn',
+    linkTitle: 'View the Docs',
     projOrg: styles.right
   },
   {
     title: 'Web Development Bootcamp',
-    desc: 'Commited 1200+ hours to learning modern industry standards and tech such as React, Node, Jest, Mocha and Chai.',
+    desc: '1200+ hours of learning industry standards and modern tech such as React, Node, Jest, Mocha and Chai.',
     dataAOS: "fade-right",
     color: colors.bloc,
     company: 'Bloc',
@@ -86,7 +88,7 @@ const projectData = [
   },
   {
     title: 'Tech Support Manager',
-    desc: 'Assists clients and trains staff in proprietary CMS. Displays mastery of knowledge and makes judgement calls with the companys best intrests in mind. ',
+    desc: 'Assists clients and trains staff in proprietary. Displays mastery of knowledge and makes judgement calls with the companys best intrests in mind. ',
     dataAOS: "fade-left",
     company: 'Shipmonk',
     color: colors.shipmonk,
@@ -105,7 +107,7 @@ const Freelance = (props) => {
       <div className={styles.project}>
 
         <div className={styles.projLogo_cont}>
-          <div style={props.color} className={styles.projLogo}>
+          <div style={colors.freelance} className={styles.projLogo}>
             <span className={styles.bigL}>{freelance.title.charAt(0)}</span>
           </div>
         </div>
@@ -173,7 +175,7 @@ const OpenSource = (props) => {
       <div className={styles.project}>
 
         <div className={styles.projLogo_cont}>
-          <div style={props.color} className={styles.projLogo}>
+          <div style={colors.freelance} className={styles.projLogo}>
             <span className={styles.bigL}>{openSoure.title.charAt(0)}</span>
             <span className={styles.littleL}>{openSoure.title.charAt(5)}</span>
           </div>
@@ -218,7 +220,6 @@ const Works = () => {
   })
 
   return(
-    <Layout title='Works'>
       <Container>
         <OpenSource />
         {projectData.map((props, idx) => (
@@ -226,8 +227,7 @@ const Works = () => {
         ))}
         <Freelance />
         <p className={styles.marginTop}>2020 | Mat Bub</p>
-      </Container>
-    </Layout>
+      </Container>    
   )
 }
 
