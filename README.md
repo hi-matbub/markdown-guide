@@ -23,10 +23,14 @@ I am a Full Stack Front End Developer passionate about Open Source work.
 >
 >
 >
-> Built in Node.js, and hosted to GitHub and npm.
+> Built in **Node.js, and hosted to GitHub and npm.**
 
 ### [Data Generator API + npm](/jsonfaker) 
 
 > A fake data generator designed for rapid prototyping.
 >
-> Built in Node.js, Express.js, HTML and Bootstrap. Hosted to Firebase, GitHub and npm
+> Built in **Node.js, Express.js, HTML and Bootstrap. Hosted to Firebase, GitHub and npm**
+
+### [This]()
+
+> Built using **MDX and Next.js**
