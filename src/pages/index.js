@@ -14,7 +14,7 @@ function Home() {
   return (
     <Layout
       title={`Home`}
-      description="Professional Software Engineering specializing in JavaScript, AWS and GraphQL">
+      description="Full Stack Cloud Engineer">
         <Works/>
 
         {/* {details } */}
