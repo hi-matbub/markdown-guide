@@ -71,6 +71,18 @@
 
 <details>
   <summary><b>Emojis</b></summary>
+  
+  :tada: `:tada:`
+  
+  :bug: `:bug:`
+  
+  :rocket: `:rocket:`
+  
+  :truck: `:truck:`
+  
+  :pencil2: `:pencil2:`
+  
+  <a href='https://gist.github.com/rxaviers/7360908' target='_blank'>View a complete list here.</a>
 
 </details>
 
