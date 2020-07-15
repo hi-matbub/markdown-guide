@@ -103,6 +103,18 @@
 <details>
   <summary><b>Images</b></summary>
 
+Avatars
+
+![avatar](https://avatars.githubusercontent.com/hi-matbub?size=40)
+![avatar](https://avatars.githubusercontent.com/hi-matbub?size=80)
+![avatar](https://avatars.githubusercontent.com/hi-matbub?size=120)
+
+````
+![avatar](https://avatars.githubusercontent.com/hi-matbub?size=40)
+![avatar](https://avatars.githubusercontent.com/hi-matbub?size=80)
+![avatar](https://avatars.githubusercontent.com/hi-matbub?size=120)
+````
+
 </details>
 
 
@@ -123,17 +135,52 @@
 <details>
   <summary><b>Lists</b></summary>
 
+  - Grocery List
+    - Eggs
+    - Milk
+    
+  ````
+  - Grocery List
+    - Eggs
+    - Milk
+  ````  
+
 </details>
 
 
 <details>
   <summary><b>Syntax Highlighting</b></summary>
 
+  Syntax highlighting is used to distinguish bits of code from standard text. 
+  
+  eg `console.log('hello world')`
+  
+  ````
+  `console.log('hello world')`
+  ````
 </details>
 
 
 
 <details>
   <summary><b>Tables</b></summary>
+
+ | Mon | Tues | Wed | Thur | Fri | Sat | Sun |
+ | --- | ---- | --- | ---- | --- | --- | --- |
+ | 01  | 02   | 03  | 04   | 05  | 06  |  07 |
+ | 08  | 09   | 10  | 11   | 12  | 13  |  14 |
+ | 15  | 16   | 17  | 18   | 19  | 20  |  21 |
+ | 22  | 23   | 24  | 25   | 26  | 27  |  28 |
+ | 29  | 30   | 31  |      |     |     |     |
+ 
+ ````
+ | Mon | Tues | Wed | Thur | Fri | Sat | Sun |
+ | --- | ---- | --- | ---- | --- | --- | --- |
+ | 01  | 02   | 03  | 04   | 05  | 06  |  07 |
+ | 08  | 09   | 10  | 11   | 12  | 13  |  14 |
+ | 15  | 16   | 17  | 18   | 19  | 20  |  21 |
+ | 22  | 23   | 24  | 25   | 26  | 27  |  28 |
+ | 29  | 30   | 31  |      |     |     |     |
+ ````
 
 </details>
