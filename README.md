@@ -1,6 +1,9 @@
 # a GitHub Flavored Markdown Guide
 
 
+Accepting PRs :smile:
+
+
 <details>
   <summary><b>Badges</b></summary>
 
@@ -28,7 +31,6 @@
   >
   > This is an example of a Block Quote.
   ````
-
 </details>
 
 
@@ -66,7 +68,6 @@
   ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+)  `![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+)`
   
 </details>
-
 
 
 <details>
