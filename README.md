@@ -83,6 +83,14 @@
 
 <details>
   <summary><b>Links</b></summary>
+  
+  [Standard Markdown Link to Google](http://google.com)
+  
+  `[Standard Markdown Link to Google](http://google.com)`
+  
+  <a href='http://google.com' target='_blank'>Open a new page to Google using inline HTML</a>
+  
+  `<a href='http://google.com' target='_blank'>Open a new page to Google using inline HTML</a>`
 
 </details>
 
