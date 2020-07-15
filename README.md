@@ -1,6 +1,5 @@
-# Markdown  
+# a GitHub Flavored Markdown Guide
 
-This guide aims to make you a github flavored markdown guru.
 
 <details>
   <summary><b>Badges</b></summary>
