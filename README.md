@@ -35,6 +35,24 @@
 <details>
   <summary><b>Code Block</b></summary>
 
+  ````javascript
+  const hello = (name) => {
+   return "Hello, " + name + "!"
+  };
+  
+  hello("World");
+  ````
+  
+  ````
+    ````javascript
+    const hello = (name) => {
+     return "Hello, " + name + "!"
+    };
+  
+    hello("World");
+    ````
+  ````
+
 </details>
 
 
