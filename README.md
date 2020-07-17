@@ -15,7 +15,7 @@ Accepting PRs :smile:
   
   `[![Custom badge](https://img.shields.io/badge/custom-badge-FFB6C1.svg)](https://shields.io/)`
 
-  _source: https://shields.io_
+  _For dynamic badges check the offical docs: https://shields.io_
 </details>
 
 
