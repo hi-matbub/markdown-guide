@@ -33,6 +33,15 @@ Accepting PRs :smile:
   ````
 </details>
 
+<details>
+  <summary><b>Center Content</b></summary>
+  
+  <p align='center'>This text is aligned</p>
+  
+  `<p align='center'>This text is aligned</p>`
+  
+</details>
+
 
 <details>
   <summary><b>Code Block</b></summary>
@@ -87,6 +96,25 @@ Accepting PRs :smile:
 
 </details>
 
+<details>
+  <summary><b>Github Cards</b></summary>
+  
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hi-matbub&repo=markdown-guide" />
+  
+  (_View Source_)[https://github.com/anuraghazra/github-readme-stats]
+  
+</details>
+
+<details>
+  <summary><b>Github Stats</b></summary>
+  
+  ![hi-matbub's github stats](https://github-readme-stats.vercel.app/api?username=hi-matbub&show_icons=true)
+  
+  `![hi-matbub's github stats](https://github-readme-stats.vercel.app/api?username=hi-matbub&show_icons=true)`
+  
+  (_View Source_)[https://github.com/anuraghazra/github-readme-stats]
+  
+</details>
 
 <details>
   <summary><b>Headings</b></summary>
@@ -148,7 +176,6 @@ Avatars
 
 </details>
 
-
 <details>
   <summary><b>Syntax Highlighting</b></summary>
 
@@ -185,3 +212,11 @@ Avatars
  ````
 
 </details>
+
+
+
+### Support
+
+Proud to support? 
+
+<a href="https://www.buymeacoffee.com/himatbub" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
