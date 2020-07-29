@@ -15,3 +15,7 @@ hello('World');
 ## 2. Syntax Highlight
 
 `console.log('Hello, World!');`
+
+## 3. Sharing Permalinks
+
+![gif](https://github.com/hi-matbub/markdown-guide/blob/master/share_permalink.gif?raw=true)
