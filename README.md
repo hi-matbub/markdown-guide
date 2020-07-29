@@ -19,62 +19,6 @@ Accepting PRs :smile:
 - [Tables](/lib/tables.md)
 - [Underlines](/lib/underlines.md)
 
-<details>
-  <summary><b>Block Quotes</b></summary>
-  
-  > When citing two or more paragraphs, use block quotation format, even if the passage from the paragraphs is less than four lines. 
-  >
-  > This is an example of a Block Quote.
-  
-  ````
-  > When citing two or more paragraphs, use block quotation format, even if the passage from the paragraphs is less than four lines. 
-  >
-  > This is an example of a Block Quote.
-  ````
-</details>
-
-<details>
-  <summary><b>Center Content</b></summary>
-  
-  <p align='center'>This text is aligned</p>
-  
-  `<p align='center'>This text is aligned</p>`
-  
-</details>
-
-<details>
-  <summary><b>Code Block</b></summary>
-
-```javascript
-const hello = (name) => {
-  return 'Hello, ' + name + '!';
-};
-
-hello('World');
-```
-
-`````
-  ````javascript
-  const hello = (name) => {
-   return "Hello, " + name + "!"
-  };
-
-  hello("World");
-  ````
-`````
-
-</details>
-
-<details>
-  <summary><b>Colors</b></summary>
-  
-  ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)  `![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)`
-  
-  ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)  `![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)`
-  
-  ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+)  `![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+)`
-  
-</details>
 
 <details>
   <summary><b>Emojis</b></summary>
@@ -174,18 +118,6 @@ Avatars
 
 </details>
 
-<details>
-  <summary><b>Syntax Highlighting</b></summary>
-
-Syntax highlighting is used to distinguish bits of code from standard text.
-
-eg `console.log('hello world')`
-
-```
-`console.log('hello world')`
-```
-
-</details>
 
 <details>
   <summary><b>Tables</b></summary>
