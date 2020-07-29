@@ -22,13 +22,14 @@
   },
   "homepage": "https://github.com/hi-matbub/markdown-guide#readme",
   "devDependencies": {
+    "eslint": "^7.5.0",
     "husky": "^4.2.5",
     "lint-staged": "^10.2.11",
     "prettier": "^2.0.5"
   },
   "lint-staged": {
     "*.md": [
-      "prettier-docs"
+      "npm run prettier-docs"
     ]
   },
   "husky": {
