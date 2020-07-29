@@ -1,23 +1,23 @@
 # a GitHub Flavored Markdown Guide
 
-
 Accepting PRs :smile:
 
+## Table of contents
 
-<details>
-  <summary><b>Badges</b></summary>
-
-  [![Generic badge](https://img.shields.io/badge/generic-badge-<COLOR>.svg)](https://shields.io/)
-  
-  `[![Generic badge](https://img.shields.io/badge/generic-badge-<COLOR>.svg)](https://shields.io/)`
-  
-  [![Custom badge](https://img.shields.io/badge/custom-badge-FFB6C1.svg)](https://shields.io/)
-  
-  `[![Custom badge](https://img.shields.io/badge/custom-badge-FFB6C1.svg)](https://shields.io/)`
-
-  _For dynamic badges check the offical docs: https://shields.io_
-</details>
-
+- [Alignment](/lib/alignment.md)
+- [Badges](/lib/badges.md)
+- [Block Quotes](/lib/blockquotes.md)
+- [Colors](/lib/colors.md)
+- [Emojis](/lib/emojis.md)
+- [Cards](/lib/cards.md)
+- [Stats](/lib/stats.md)
+- [Headings](/lib/headings.md)
+- [Images](/lib/images.md)
+- [Links](/lib/links.md)
+- [Lists](/lib/lists.md)
+- [Code / Syntax Highlighting](/lib/code-syntax.md)
+- [Tables](/lib/tables.md)
+- [Underlines](/lib/underlines.md)
 
 <details>
   <summary><b>Block Quotes</b></summary>
@@ -42,30 +42,28 @@ Accepting PRs :smile:
   
 </details>
 
-
 <details>
   <summary><b>Code Block</b></summary>
 
+```javascript
+const hello = (name) => {
+  return 'Hello, ' + name + '!';
+};
+
+hello('World');
+```
+
+`````
   ````javascript
   const hello = (name) => {
    return "Hello, " + name + "!"
   };
-  
+
   hello("World");
   ````
-  
-  ````
-    ````javascript
-    const hello = (name) => {
-     return "Hello, " + name + "!"
-    };
-  
-    hello("World");
-    ````
-  ````
+`````
 
 </details>
-
 
 <details>
   <summary><b>Colors</b></summary>
@@ -77,7 +75,6 @@ Accepting PRs :smile:
   ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+)  `![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+)`
   
 </details>
-
 
 <details>
   <summary><b>Emojis</b></summary>
@@ -119,33 +116,34 @@ Accepting PRs :smile:
 <details>
   <summary><b>Headings</b></summary>
 
-  # `# h1`
-  ## `## h2`
-  ### `### h3`
-  #### `#### h4`
-  ##### `##### h5`
-  ###### `###### h6`
+# `# h1`
+
+## `## h2`
+
+### `### h3`
+
+#### `#### h4`
+
+##### `##### h5`
+
+###### `###### h6`
 
 </details>
-
 
 <details>
   <summary><b>Images</b></summary>
 
 Avatars
 
-![avatar](https://avatars.githubusercontent.com/hi-matbub?size=40)
-![avatar](https://avatars.githubusercontent.com/hi-matbub?size=80)
-![avatar](https://avatars.githubusercontent.com/hi-matbub?size=120)
+![avatar](https://avatars.githubusercontent.com/hi-matbub?size=40) ![avatar](https://avatars.githubusercontent.com/hi-matbub?size=80) ![avatar](https://avatars.githubusercontent.com/hi-matbub?size=120)
 
-````
+```
 ![avatar](https://avatars.githubusercontent.com/hi-matbub?size=40)
 ![avatar](https://avatars.githubusercontent.com/hi-matbub?size=80)
 ![avatar](https://avatars.githubusercontent.com/hi-matbub?size=120)
-````
+```
 
 </details>
-
 
 <details>
   <summary><b>Links</b></summary>
@@ -160,63 +158,60 @@ Avatars
 
 </details>
 
-
 <details>
   <summary><b>Lists</b></summary>
 
-  - Grocery List
-    - Eggs
-    - Milk
-    
-  ````
-  - Grocery List
-    - Eggs
-    - Milk
-  ````  
+- Grocery List
+
+  - Eggs
+  - Milk
+
+```
+- Grocery List
+  - Eggs
+  - Milk
+```
 
 </details>
 
 <details>
   <summary><b>Syntax Highlighting</b></summary>
 
-  Syntax highlighting is used to distinguish bits of code from standard text. 
-  
-  eg `console.log('hello world')`
-  
-  ````
-  `console.log('hello world')`
-  ````
+Syntax highlighting is used to distinguish bits of code from standard text.
+
+eg `console.log('hello world')`
+
+```
+`console.log('hello world')`
+```
+
 </details>
-
-
 
 <details>
   <summary><b>Tables</b></summary>
 
- | Mon | Tues | Wed | Thur | Fri | Sat | Sun |
- | --- | ---- | --- | ---- | --- | --- | --- |
- | 01  | 02   | 03  | 04   | 05  | 06  |  07 |
- | 08  | 09   | 10  | 11   | 12  | 13  |  14 |
- | 15  | 16   | 17  | 18   | 19  | 20  |  21 |
- | 22  | 23   | 24  | 25   | 26  | 27  |  28 |
- | 29  | 30   | 31  |      |     |     |     |
- 
- ````
- | Mon | Tues | Wed | Thur | Fri | Sat | Sun |
- | --- | ---- | --- | ---- | --- | --- | --- |
- | 01  | 02   | 03  | 04   | 05  | 06  |  07 |
- | 08  | 09   | 10  | 11   | 12  | 13  |  14 |
- | 15  | 16   | 17  | 18   | 19  | 20  |  21 |
- | 22  | 23   | 24  | 25   | 26  | 27  |  28 |
- | 29  | 30   | 31  |      |     |     |     |
- ````
+| Mon | Tues | Wed | Thur | Fri | Sat | Sun |
+| --- | ---- | --- | ---- | --- | --- | --- |
+| 01  | 02   | 03  | 04   | 05  | 06  | 07  |
+| 08  | 09   | 10  | 11   | 12  | 13  | 14  |
+| 15  | 16   | 17  | 18   | 19  | 20  | 21  |
+| 22  | 23   | 24  | 25   | 26  | 27  | 28  |
+| 29  | 30   | 31  |      |     |     |     |
+
+```
+| Mon | Tues | Wed | Thur | Fri | Sat | Sun |
+| --- | ---- | --- | ---- | --- | --- | --- |
+| 01  | 02   | 03  | 04   | 05  | 06  |  07 |
+| 08  | 09   | 10  | 11   | 12  | 13  |  14 |
+| 15  | 16   | 17  | 18   | 19  | 20  |  21 |
+| 22  | 23   | 24  | 25   | 26  | 27  |  28 |
+| 29  | 30   | 31  |      |     |     |     |
+```
 
 </details>
 
-
-
 ### Support
 
-Proud to support? 
+Proud to support?
 
 <a href="https://www.buymeacoffee.com/himatbub" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
