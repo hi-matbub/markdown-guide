@@ -8,7 +8,10 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "prettier-docs": "prettier --config .prettierrc --write \"**/*.md\""
+    "prettier": "prettier --config .prettierrc --write \"**/*.js\"",
+    "prettier-docs": "prettier --config .prettierrc --write \"**/*.md\"",
+    "lint": "npm run lint:js",
+    "lint:js": "eslint --cache \"**/*.js\""
   },
   "repository": {
     "type": "git",
@@ -28,6 +31,9 @@
     "prettier": "^2.0.5"
   },
   "lint-staged": {
+    "*.js": [
+      "npm run prettier"
+    ],
     "*.md": [
       "npm run prettier-docs"
     ]
