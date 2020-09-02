@@ -22,9 +22,3 @@
 Simply view the raw version of the file.
 
 ![how to](https://github.com/hi-matbub/markdown-guide/blob/master/how-to-use.gif?raw=true)
-
-### Have I helped you?
-
-Consider supporting for motivational purposes :monkey:
-
-<a href="https://www.buymeacoffee.com/himatbub" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
